@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Database design and development**
 
-- 🤝 I’m looking for help with **Dearning more database subjects**
+- 🤝 I’m looking for help with **Learning more database subjects**
 
 - 👨‍💻 All of my projects are available at [Suranaree University of Technology.](Suranaree University of Technology.)
 
