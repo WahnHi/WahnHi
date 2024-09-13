@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Kittipohni</h1>
+<h1 align="center">Hi , I'm Kittipohn</h1>
 <h3 align="center">I'm a student studying at Suranaree University of Technology.</h3>
 
 - I’m currently learning **Database design and development**
