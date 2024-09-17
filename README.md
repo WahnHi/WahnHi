@@ -1,13 +1,5 @@
 <h1 align="center">Hi , I'm Kittipohn</h1>
-<h3 align="center">I'm a student studying at Suranaree University of Technology.</h3>
 
-- I’m currently learning **Database design and development**
-
-- I’m looking for help with **Learning more database subjects**
-
-- How to reach me **kittiwc001@gmail.com**
-
-- ⚡ Fun fact **I like listening to old songs like the Beatles**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
